@@ -5,7 +5,7 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscarvalhodev&layout=compact"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcoscarvalhodev&bg_color=ffffff&color=000000&line=f11e1e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcoscarvalhodev&bg_color=ffffff&color=e90707&line=dc0909&point=131111&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
