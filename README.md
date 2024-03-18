@@ -1,4 +1,4 @@
-# Hi there, I'm Marcos Carvalho! ✌️
+# Hi there, I'm Marcos Carvalho.
 
 <div align="center">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marcoscarvalhodev&show_icons=true&theme=aura_dark"/>
